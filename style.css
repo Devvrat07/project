@@ -1,0 +1,44 @@
+
+  body {
+  margin: 20px;
+ background-repeat: no-repeat;
+  background-image: url("https://i.pinimg.com/originals/c9/12/d4/c912d49f5f63e3c25aae2465f7577e7a.png");
+        background-repeat: no-repeat;
+        background-size:200px;
+        
+}
+
+h1 {
+  text-align:center;
+}
+h2 {
+  text-align:center;
+}
+.mark-sheet{
+  text-align:center;
+  
+  }
+ .time-table{
+    text-align:center;
+  }
+.date-sheet{
+text-align:center;
+}
+h3{
+  text-align:center;
+}
+.t1{
+alignment:center;
+  margin:20px 200px 20px 220px;
+  height:500px;
+}
+.d1{
+alignment:center;
+  margin:20px 300px 20px 450px;
+  height:300px
+}
+.m1{
+  alignment:center;
+  height:500px;
+  margin:20px 200px 20px 350px;
+}
